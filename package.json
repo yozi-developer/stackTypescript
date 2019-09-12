@@ -14,6 +14,7 @@
     "build": "webpack --config webpack.prod.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "sideEffects": false,
   "author": "",
   "license": "ISC"
 }
